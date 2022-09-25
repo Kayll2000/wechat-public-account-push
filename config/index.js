@@ -204,7 +204,8 @@ const USER_CONFIG = {
         // 结婚纪念日
         { keyword: 'marry_day', date: '2022-09-09' },
         // 退伍日
-        { keyw
+        { keyword: 'ex_day', date: '2022-09-10' }
+      ],
       courseSchedule: {
         // 单双周的基准
         benchmark: {
