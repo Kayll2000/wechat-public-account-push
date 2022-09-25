@@ -173,7 +173,7 @@ const USER_CONFIG = {
     {
       name: '每日讯息',
       id: 'oixQ26hejevw9GtAksnBXEDcl3M0',
-      useTemplateId: '	yFwRo2TW-SMfW6milbnwLoVBe2KX9qK1RG5JS9JNJoo',
+      useTemplateId: 'yFwRo2TW-SMfW6milbnwLoVBe2KX9qK1RG5JS9JNJoo',
       province: '广东',
       city: '广州',
       // 新历生日, 仅用作获取星座运势, 格式必须
