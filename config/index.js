@@ -39,7 +39,7 @@ const USER_CONFIG = {
     // 毒鸡汤
     poisonChickenSoup: false,
     // 古诗古文
-    poetry: false,
+    poetry: true,
 
     /** 星座运势 */
     horoscope: true,
